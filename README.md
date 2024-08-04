@@ -1,6 +1,7 @@
 # Stopwatch Web Application
 
-This is a simple stopwatch web application built using HTML, CSS, and JavaScript. It allows users to start, stop, reset the stopwatch, and record lap times.
+This is a simple stopwatch web application built using HTML, CSS, and JavaScript. It allows users to start, stop, reset the stopwatch, and record lap times.Done as part of web development internship at Prodigy Infotech.
+
 
 ## Features
 
