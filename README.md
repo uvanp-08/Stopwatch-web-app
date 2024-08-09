@@ -17,4 +17,4 @@ This is a simple stopwatch web application built using HTML, CSS, and JavaScript
 - **JavaScript**: For implementing the stopwatch functionality.
 
 ## Live Website
-The website is live at https://uvanp-08.github.io/PRODIGY_WD_02/
+The website is live at https://uvanp-08.github.io/PRODIGY_WD_02/](https://uvanp-08.github.io/Stopwatch-web-app/
